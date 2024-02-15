@@ -28,3 +28,5 @@ Augmented Reality
 
 Virtual Reality
 ![VR](https://github.com/ikhsanpratama/UAS_ARVR/assets/5057373/834f8ce0-fca9-4942-92bd-fad753372b7a)
+
+![gif_resize](https://github.com/ikhsanpratama/UAS_ARVR/assets/5057373/08acf22a-02f8-4c30-9f75-174058b9da93)
