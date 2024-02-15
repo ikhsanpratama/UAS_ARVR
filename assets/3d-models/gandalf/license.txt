@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ganjaarl
+* source:	https://sketchfab.com/3d-models/ganjaarl-0f42a2cde196496a9f1e9c8aed9ed14b
+* author:	antoinepavia (https://sketchfab.com/antoinepavia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ganjaarl" (https://sketchfab.com/3d-models/ganjaarl-0f42a2cde196496a9f1e9c8aed9ed14b) by antoinepavia (https://sketchfab.com/antoinepavia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
