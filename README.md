@@ -30,3 +30,15 @@ Virtual Reality
 ![VR](https://github.com/ikhsanpratama/UAS_ARVR/assets/5057373/834f8ce0-fca9-4942-92bd-fad753372b7a)
 
 ![gif_resize](https://github.com/ikhsanpratama/UAS_ARVR/assets/5057373/08acf22a-02f8-4c30-9f75-174058b9da93)
+
+Sumber Model 3D
+https://sketchfab.com/
+framework
+https://aframe.io/
+Plugin AR
+https://ar-js-org.github.io/AR.js-Docs/
+https://github.com/rdub80/aframe-gui
+https://github.com/n5ro/aframe-physics-system
+https://supermedium.github.io/aframe-environment-component/
+https://github.com/amitwaghmare/aframe-event-set-component
+https://github.com/c-frame/aframe-extras
